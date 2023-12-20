@@ -1,5 +1,5 @@
 {
-    "name": "root/i-scale-exam",
+    "name": "root/php-exam",
     "description": "Job Application Exam",
     "type": "project",
     "autoload": {
@@ -9,7 +9,7 @@
     },
     "authors": [
         {
-            "name": "Gabriel Raymundo"
+            "name": "Elaine Tanada"
         }
     ],
     "require": {
