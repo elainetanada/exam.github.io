@@ -18,7 +18,7 @@ class ProductRepository implements RepositoryInterface{
     }
 
     /**
-	* Get News
+	* Get Product
     * 
     * @return array
 	*/

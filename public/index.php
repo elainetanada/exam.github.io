@@ -1,6 +1,4 @@
 <?php
-use App\Services\NewsService;
-use App\Services\CommentManager;
 
 // Set error reporting to display all errors and warnings.
 error_reporting(E_ALL);

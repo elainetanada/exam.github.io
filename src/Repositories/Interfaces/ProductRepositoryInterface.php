@@ -3,7 +3,7 @@
 namespace App\Repositories\Interfaces;
 
 /*
- * News Repository Inteface
+ * Product Repository Inteface
  */
 interface ProductRepositoryInterface {
     // add methods here for Interface Segregation principle
